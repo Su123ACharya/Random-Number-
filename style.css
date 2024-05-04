@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#main{
+    background-color:aqua;
+    height: 20em;
+    width: 35em;
+    text-align: center;
+    margin:auto;
+    margin-top:8%;
+    padding: 20px; 
+    line-height: 2
+    
+}
+
+#heading{
+    font-size: 50px;
+}
+#startBox{
+    background-color: rgb(149, 143, 166);
+    height: auto;
+    width: auto;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    /* display: inline; */
+}
+#userInput{
+    height: 25px;
+    width: 185px;
+}
+button{
+    height: 25px;
+    width: 50px;
+    background-color: silver;
+}
+marquee{
+    font-family: cursive;
+    margin-bottom: 0%;
+}
